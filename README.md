@@ -7,7 +7,7 @@
 <br/>&ensp;  **Data analysis, processing, cleaning, model training, search for the best model**
 
 **Uploaded to the repository and Results :**
-* [KickStarter](https://github.com/ValentinPatrakeev/ML-projects/blob/main/KickStarter/KS.ipynb****)
+* [KickStarter](https://github.com/SergeyGermanovichML/ML-projects/blob/main/KS.ipynb****)
 * Several modals were trained, the best ones were selected, and hyperparameters were selected. : ROC_AUC - 0.709** **CatBoostClassifier**
 
 
